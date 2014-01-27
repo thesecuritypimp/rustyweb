@@ -42,6 +42,6 @@ This tool is part of the Crimson Kool-Aid toolkit from theSecurityPIMP.net
               (Security thru: Lies, Deceit, & Denial)
 
 If you think you can help improve this tool drop me a line..
-                                            thesecuritypimp[a]gmail.com
+                                            the.security.pimp[a]gmail.com
 Most of this code was lifted From:
          https://wiki.python.org/moin/BaseHttpServer

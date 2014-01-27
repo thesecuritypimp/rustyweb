@@ -11,16 +11,11 @@
 
   Currently the script will spoof the following Web Server Versions
 
-  Microsoft-IIS/5.0
-  Microsoft-IIS/6.0
-  Microsoft-IIS/7.0
-  Apache/1.3
-  Apache/1.3.26
-  Apache/1.3.42
-  Apache/2.0
-  Apache/2.2
-  Apacacheez/1.3.42
-  PimpBot/2000
+  Microsoft-IIS/5.0  Microsoft-IIS/6.0  Microsoft-IIS/7.0
+  
+  Apache/1.3  Apache/1.3.26  Apache/1.3.42  Apache/2.0  Apache/2.2
+  
+  Apacacheez/1.3.42  PimpBot/2000
 
 =====================================================================
    Install:

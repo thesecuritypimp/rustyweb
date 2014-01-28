@@ -2,6 +2,7 @@ Rusty HTTP Web Server v0.2
 
 
 Rusty Web is a simple python script used to spoof web server versions during penetration testing.
+
 This is done using the build in BaseHTTPServer module from python and some fake banner info.
 
 While it won't fool smart testers for long it can throw up a road block to eat up time.

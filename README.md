@@ -7,6 +7,7 @@ This is done using the build in BaseHTTPServer module from python and some fake 
 While it won't fool smart testers for long it can throw up a road block to eat up time.
 
 PLEASE USE THIS AT YOUR OWN DISCRETION
+
 This is not meant as a long term web content server but more as a tool to troll Red Teams.
 
 Currently the script will spoof the following Web Server Versions
@@ -39,6 +40,7 @@ Some additional features for the future
    License:
 
 Have @ It! But don't get into trouble
+
 This tool is part of the Crimson Kool-Aid toolkit from theSecurityPIMP.net 
               (Security thru: Lies, Deceit, & Denial)
 
